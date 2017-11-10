@@ -27,7 +27,7 @@ h1 {
 }
 
 .section {
-  padding-top: 3rem;
+  margin-top: 3rem;
 }
 
 /* Navigation */
@@ -115,4 +115,22 @@ img.paper-icon {
   background-color: cadetblue;
   padding: 0.5rem 1.25rem;
   margin-bottom: 1rem;
+}
+
+/* Footer */
+
+.footer-outer {
+  margin-top: 5rem;
+}
+
+.footer-inner {
+  justify-content: flex-start;
+  background-color: azure;
+  padding: 4rem;
+}
+
+.footer-logo-image {
+  height: 1.5rem;
+  width: auto;
+  margin-right: 1rem;
 }
